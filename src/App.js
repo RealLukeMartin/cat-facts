@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import CatFact from './components/CatFact/CatFact';
 import Header from './components/Header/Header';
