@@ -10,7 +10,6 @@ function CatSpinner() {
         ariaLabel="grid-loading"
         radius="12.5"
         visible={true}
-        text-align="center"
       />
     </>
   )
