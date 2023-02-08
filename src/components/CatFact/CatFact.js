@@ -9,7 +9,7 @@ function CatFact() {
       .then((data) => setFact(data.fact));
   }, []);
 
-  return <p class="fact">{fact}</p>;
+  return <p className="fact">{fact}</p>;
 }
 
 export default CatFact;
