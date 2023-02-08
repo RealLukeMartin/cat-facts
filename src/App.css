@@ -53,3 +53,7 @@ body {
   max-width: 740px;
   margin: 50px auto;
 }
+
+img.cat-image {
+  width: 100%;
+}
