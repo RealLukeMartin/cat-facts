@@ -22,7 +22,7 @@ function CatImage() {
           <CatSpinner />
         </div>
       ) : ( 
-        <p className="image"><img src={image} alt="icons" /></p>
+        <p className="cat-image"><img src={image} alt="icons" /></p>
       )}
     </>
   )

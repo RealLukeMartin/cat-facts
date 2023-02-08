@@ -48,3 +48,7 @@ body {
   align-items: center;
   height: 100vh;
 }
+
+.cat-image {
+  max-width: 740px;
+}
